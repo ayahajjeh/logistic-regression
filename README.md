@@ -1,1 +1,1 @@
-# cs74-hw3
+# Logistic Regression, Cross Entropy Cost, Perceptron Cost, and Evaluation Metrics
